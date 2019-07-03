@@ -4,7 +4,7 @@ Blog app implementing RESTful routes
 ### RESTFUL Chart
 ![](thumbs/chart.png)
 
-### Functions
+### Features
 
 1. Index Page
    
