@@ -1,0 +1,17 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+
+i.chevron {
+    font-size: inherit;
+}
+
+#edit {
+    height: 36px;
+    width: 83.36px;
+}
