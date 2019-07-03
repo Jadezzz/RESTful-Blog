@@ -4,7 +4,7 @@ Blog app implementing RESTful routes
 ### Dependencies
 * node
 * npm
-* mogodb
+* mongodb
 
 ### Usage
 
