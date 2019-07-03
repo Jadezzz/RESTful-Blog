@@ -7,15 +7,19 @@ Blog app implementing RESTful routes
 ### Functions
 
 1. Index Page
+   
    ![](thumbs/index.png)
 
 2. Create Blog Post
+   
    ![](thumbs/new.png)
 
 3. Edit Blog Post
+   
    ![](thumbs/edit.png)
 
 4. Show Full Blog Post (Including Edit and Delete)
+   
    ![](thumbs/show.png)
 
 
