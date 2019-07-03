@@ -24,9 +24,17 @@ Blog app implementing RESTful routes
 
 
 ### Dependencies
-* node
+* Node.js
 * npm
 * mongodb
+
+Following packages can be handled by npm
+
+* mongoose
+* express
+* body-parser
+* method-override
+* express-sanitizer
 
 ### Usage
 
